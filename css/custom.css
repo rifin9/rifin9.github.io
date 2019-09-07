@@ -8,3 +8,39 @@
 .box-simple {
   min-height: 230px;
 }
+
+.image a:hover {
+	text-decoration: none;
+}
+
+.card {
+	padding: 10px 15px;
+	min-height: 165px;
+}
+
+.card h3 {
+	color: #ffffff;
+	font-size: 22px;
+	text-align: right;
+}
+
+.card-blue {
+	background-color: #67c7c7;
+	border: 1px solid #57b7b7;
+}
+
+.card-blue:hover {
+	background-color: #57b7b7;
+}
+
+.card-green {
+	background-color: #44ce65;
+	border: 1px solid #57b7b7;
+}
+
+.card-green:hover {
+	background-color: #34be55;
+}
+
+
+
