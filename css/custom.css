@@ -24,6 +24,11 @@
 	text-align: right;
 }
 
+.card-small {
+	padding: 2px 12px;
+	color: #efefef;
+}
+
 .card-blue {
 	background-color: #67c7c7;
 	border: 1px solid #57b7b7;
@@ -42,5 +47,10 @@
 	background-color: #34be55;
 }
 
+#blog-listing-medium .post {
+	margin-bottom: 5px;
+}
 
-
+.btn {
+	letter-spacing: 0.03em;
+}
